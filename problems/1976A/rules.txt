@@ -1,0 +1,4 @@
+1. password should consist only of lowercase Latin letters and digits;
+2. there should be no digit that comes after a letter (so, after each letter, there is either another letter or the string ends);
+3. all digits should be sorted in the non-decreasing order;
+4. all letters should be sorted in the non-decreasing order.
