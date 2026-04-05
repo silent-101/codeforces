@@ -1,0 +1,5 @@
+1. Take the number x
+2. Look at all the digits of x
+3. From those digits, find the smallest digit
+4. That smallest digit will be your answer y
+5. y can be a single digit (0–9) also the y is part of x.
