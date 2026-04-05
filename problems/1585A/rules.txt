@@ -1,0 +1,4 @@
+1. There will be n no of days
+2. first line will have an int which will tell how many days the flowers got water also each flower will be of 1cm initially;
+3. second line will a where a = 0 || a = 1 (if a == 1) then flowers got water else no water
+4. if flowers get water 2 days in row then the height grow by +5cm but if flowers do not get the water for 2 days in row then they die.5. printf the height or if they're dead then -1
