@@ -1,0 +1,3 @@
+1. first line in inout is having no of sentences.
+2. the sentences are saprated by spaces to make up the words
+3. the goal is to printf the the first char from each word. as a one string.
